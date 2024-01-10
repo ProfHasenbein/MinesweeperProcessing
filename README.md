@@ -1,6 +1,6 @@
 # ***'almost'* The classic Minesweeper game using *`java`***
 
-available in *English* and *German* [German](Minesweeper.pde)
+available in *English* and *German* [German](/Minesweeper/Minesweeper.pde/)
 
 If you haven't already done: download *[processing](https://processing.org/download/)*
 
