@@ -23,7 +23,7 @@ I personally prefer this rule change (and I am lazy), therefore the rules remain
 
 **Screenshot *English* version**
 
-![ScreenshotEN](https://github.com/ProfHasenbein/MinesweeperProcessingJava/assets/154764029/80611e7f-ddc2-4f2f-918f-275cfe8493a6)
+![ScreenshotEN](https://github.com/ProfHasenbein/MinesweeperProcessingJava/assets/154764029/c6a5971e-a420-4703-b087-41afa1365cfa)
 
 **Screenshot *German* version**
 
