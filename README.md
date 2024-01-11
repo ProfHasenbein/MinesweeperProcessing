@@ -1,4 +1,4 @@
-# ***'Almost'* the classic Minesweeper game using *`java`***
+# ***'Almost'* the classic Minesweeper game using *`Java`***
 
 Available in *[English](/MinesweeperEN/MinesweeperEN.pde/)* and *[German](/MinesweeperDE/MinesweeperDE.pde/)*
 
